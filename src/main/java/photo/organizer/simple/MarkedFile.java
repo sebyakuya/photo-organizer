@@ -4,6 +4,7 @@ import java.io.File;
 
 public class MarkedFile {
 	
+	
 	private File file;
 	public MarkedFile(File src) {
 		this.file = src;
